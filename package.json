@@ -1,0 +1,7 @@
+{
+  "name": "flightreservationbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sam <shoaibur206@gmail.com>",
+  "license": "MIT"
+}
